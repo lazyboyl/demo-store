@@ -1,0 +1,22 @@
+{
+  "properties": [
+    {
+      "name": "xxxface.url",
+      "type": "java.lang.String",
+      "description": "脸部识别的地址",
+      "defaultValue": "http://xxx.face.com/get"
+    },
+    {
+      "name": "xxxface.key",
+      "type": "java.lang.String",
+      "description": "脸部识别的key",
+      "defaultValue": "abcdefghijklmn"
+    },
+    {
+      "name": "xxxface.isopen",
+      "type": "java.lang.Boolean",
+      "description": "脸部识别是否打开的标志",
+      "defaultValue": false
+    }
+  ]
+}
